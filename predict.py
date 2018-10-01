@@ -8,7 +8,6 @@ from PIL import Image
 import matplotlib.pyplot as plt
 
 
-DATA_DIR = "G:/DATASET/cifar-10-batches-py/"
 MOD_DIR = "./cifar10_model/"
 IMAGE_PATH = 'test_image/3.jpg'
 MOD_NAME = "res_net.ckpt"
